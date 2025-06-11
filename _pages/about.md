@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the <a href="https://scs.bupt.edu.cn/index.html">School of Computer Science </a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT) </a>, where I am privileged to be advised by <a href="https://teacher.bupt.edu.cn/sunhaifeng/zh_CN/index/76387/list/index.html">Prof. Haifeng Sun (孙海峰)</a> and  <a href="https://teacher.bupt.edu.cn/liaojianxin/zh_CN/index/34601/list/index.html">Prof. Jianxin Liao (廖建新)</a>  in the  <a href="https://nirc.top/">Network Intelligence Research Center(NIRC)</a>at the State Key Laboratory of Networking and Switching Technology (SKL-NST). I earned my M.Sc. degree in Communication Engineering from CUHK(SZ) and finished my research paper Learning-Based Low-Latency Collaborative Inference for Multi-Branch Models in D2D-Assisted MEC under the supervision of Dr. Yilin Xiao (肖奕霖) in 2024. In 2022, I received my B.Sc. degree in Telecommunications Engineering with Management from Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) with Second Class Honours, Upper Division.
+I am a first-year Ph.D. student at the <a href="https://scs.bupt.edu.cn/index.htm">School of Computer Science </a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT) </a>, where I am privileged to be advised by <a href="https://teacher.bupt.edu.cn/sunhaifeng/zh_CN/index/76387/list/index.htm">Prof. Haifeng Sun (孙海峰)</a> and  <a href="https://teacher.bupt.edu.cn/liaojianxin/zh_CN/index/34601/list/index.htm">Prof. Jianxin Liao (廖建新)</a>  in the  <a href="https://nirc.top/">Network Intelligence Research Center(NIRC)</a>at the State Key Laboratory of Networking and Switching Technology (SKL-NST). I earned my M.Sc. degree in Communication Engineering from CUHK(SZ) and finished my research paper Learning-Based Low-Latency Collaborative Inference for Multi-Branch Models in D2D-Assisted MEC under the supervision of Dr. Yilin Xiao (肖奕霖) in 2024. In 2022, I received my B.Sc. degree in <a href="https://is.bupt.edu.cn/">Telecommunications Engineering with Management </a>from Beijing University of Posts and Telecommunications (BUPT) and <a href="https://www.qmul.ac.uk/">Queen Mary University of London (QMUL) </a> with Second Class Honours, Upper Division.
 
-My research interest includes Edge Computing and Large Language Model. 
+My research interest includes Edge Computing, Large Language Model, and network management.
 
 
 # 🔥 News
@@ -55,8 +55,8 @@ My research interest includes Edge Computing and Large Language Model.
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications, China.
 
 
-# 💬 Invited Talks
-- None
+# 💬 Teaching
+- Teaching Assistant, Machine Learning, Sem2 AY2024/2025.
 
 
 # 💻 Internships
