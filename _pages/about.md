@@ -41,8 +41,6 @@ My research interest includes Edge Computing, Large Language Model, and network 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2024.09* Beijing University of Posts and Telecommunications entrance Scholarship. 
 - *2024.06* CUHK(SZ) Third-class Scholarship. 
