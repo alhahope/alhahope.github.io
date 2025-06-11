@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guo Kai"
-  avatar           : "images/android-chrome-192×192.png"
+  avatar           : "images/android-chrome-512×512.png"
   bio              : "Beijing University of Post and Telecommunication (BUPT)"
   location         : "Beijing, China"
   employer         :
