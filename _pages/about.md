@@ -46,7 +46,7 @@ My research interest includes Edge Computing, Large Language Model, and network 
 - *2024.06* CUHK(SZ) Third-class Scholarship. 
 
 # 📖 Educations
-- *2024.09 - 2022.04 (now)*, Ph.D, Beijing University of Posts and Telecommunications, China. 
+- *2024.09 -  now*, Ph.D, Beijing University of Posts and Telecommunications, China. 
 - *2022.09 - 2024.06*, MSc in Communication Engineering, The Chinese University of Hong Kong, Shenzhen, China.
 - *2018.09 - 2022.06*, Undergraduate, Beijing University of Posts and Telecommunications, China.
 
